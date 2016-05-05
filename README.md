@@ -1,6 +1,7 @@
 # RemoveDuplicateCharacters
+# Sublime Text 3删除重复字符
 
-for Sublime Text 3.
+ remove duplicate characters in sublime text 3
 
 ## Screenshots
 
