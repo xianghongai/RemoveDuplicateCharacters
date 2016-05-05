@@ -19,9 +19,11 @@ installing the theme manually.
 
 #### Windows
 
-```ctrl+shift+alt+r```
+```
+ctrl+shift+alt+r
+```
 
 ## Thanks to
 
 - [r-stein](http://stackoverflow.com/questions/36884079/how-to-remove-duplicate-characters-in-sublime)
-- [Keith Hall]
+- Keith Hall
