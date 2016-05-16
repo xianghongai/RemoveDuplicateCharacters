@@ -1,0 +1,3 @@
+[
+    {"keys": ["ctrl+alt+shift+r"], "command": "remove_duplicate_characters"}
+]

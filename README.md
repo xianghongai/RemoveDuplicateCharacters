@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-![screenshots](https://raw.githubusercontent.com/xianghongai/RemoveDuplicateCharacters/master/screenshots/remove-duplicate-characters-demo.png)
+![screenshots](https://raw.githubusercontent.com/xianghongai/RemoveDuplicateCharacters/master/screenshots/remove-duplicate-characters-demo.gif)
 
 ## How to Install
 
