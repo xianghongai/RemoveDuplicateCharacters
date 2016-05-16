@@ -9,6 +9,13 @@
 
 ## How to Install
 
+#### Package Control
+
+If you already have `Package Control` installed in Sublime Text:
+- Select “Install Package” from the Command Palette: Ctrl+Shift+P,
+- Search for “RemoveDuplicateCharacters” and enter.
+
+
 #### Manual
 
 installing the theme manually.
